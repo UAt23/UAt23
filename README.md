@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Uğur Alp
 - 👀 I’m interested in Front End Development
-- 🎢 So far, I learned Angular, React Native, JS, CSS, HTML, Python. I am familiar with Docker, MongoDB, AWS, Firebase and will get more experience in short time. 
-- 🌱 I’m currently learning Node.js 
+- 🎢 So far, I learned Angular, React Native, JS, CSS, HTML, Python. I am familiar with Docker, MongoDB, AWS, Firebase, NodeJS, NestJS and will get more experience in short time. 
+- 🌱 I’m currently learning Figma and UI design 
 - 📫 How to reach me uguralp9948@gmail.com
 
 New work will be here in short time. Take care :)
